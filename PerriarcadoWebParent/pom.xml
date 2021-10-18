@@ -83,8 +83,8 @@
 		</dependency>
 
 		<dependency>
-			<groupId>com.shopme</groupId>
-			<artifactId>ShopmeCommon</artifactId>
+			<groupId>com.talentyco</groupId>
+			<artifactId>PerriarcadoCommon</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
