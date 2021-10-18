@@ -7,10 +7,13 @@
     <groupId>com.talentyco</groupId>
     <artifactId>perriarcado-multimodulo-springboot2</artifactId>
     <version>1.0-SNAPSHOT</version>
+	<packaging>pom</packaging>
+	<name>perriarcado-multimodulo-springboot2</name>
+    <description>Root project</description>
 
-    <properties>
-        <maven.compiler.source>11</maven.compiler.source>
-        <maven.compiler.target>11</maven.compiler.target>
-    </properties>
+  <modules>
+  	<module>PerriarcadoCommon</module>
+  	<module>PerriarcadoWebParent</module>
+  </modules>
 
 </project>
